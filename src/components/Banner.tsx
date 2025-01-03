@@ -6,7 +6,7 @@ import { ChevronRight } from 'lucide-react';
 const banners = [
   {
     id: 'banner1',
-    title: 'STYLE & HEAVEN',
+    title: 'Ecommerce-toolkit',
     description: 'Discover the latest trends and styles curated just for you. Elevate your fashion game today!',
     image: '/banner.png',
     bgColor: 'bg-orange-100'
